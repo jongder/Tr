@@ -15,6 +15,7 @@ proxy-groups:
       - dc6.jongder.top:443
   - name: ♻️ 自动选择
     type: user
+    url: https://dc6.jongder.top:17391
     interval: 300
     proxies:
       - dc6.jongder.top:443
